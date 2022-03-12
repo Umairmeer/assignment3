@@ -1,0 +1,162 @@
+import 'dart:io';
+
+void main() {
+            //Question No 1
+          
+      // Airthmetic operator
+      // int a = 25;
+      // int b = 5;
+
+      // var add = a+b;
+      // var sub = a-b;
+      // var mul = a*b;
+      // var div = a/b;
+      // var mod = a%b;
+
+      // print(add);
+      // print(sub);
+      // print(mul);
+      // print(div);
+      // print(mod);
+
+      //EQUALITY AND RELATIONAL OPERATORS EXAMPLES:
+      // int a = 10;
+      // int b = 9;
+
+      // //Greater Then
+      // if (a > b){
+      //   print("True");
+      // }
+
+      //Less Then
+      // if(a < b){
+      //   print("True");
+      // }
+      //else{
+      //print("False");}
+
+      //Not Equal To
+      
+  // int a = 9;
+  // int b = 21;
+
+  // if (a != b) {
+  //   print("True");
+  // } else {
+  //   print("False");
+  // }
+      
+      //Logical Operator
+
+  //      int a = 16;
+  // int b = 16;
+
+        //AND OPERATOR
+  // if ((a >= 16) && (b >= 16)) {
+  //   print("True");
+  // } else {
+  //   print("False");
+  // }
+     //OR OPERATOR
+  //   int a = 10;
+  // int b = 8;
+
+  // if ((a >= 10) || (b >= 10)) {
+  //   print("True");
+  // } else {
+  //   print("False");
+  // }
+
+        //NOT OPERATOR
+  //  int a = 3;
+  // int b = 3;
+
+  // if ((a >= 3) && !(b >= 3)) {
+  //   print("True");
+  // } else {
+  //   print("False");
+  // }       
+    
+
+       // Question 2
+    // var ticket = 600;
+    // var ticketss = ticket*5;
+    // print(ticketss);
+
+          //Question 4
+  //     The single ( ? ) mark is simple version of if else statement if expression
+  //    1 is (True) then it will executed and if expression 2 is (true) then it
+  //    will executed.
+
+  //  The double (??) shows if If expersion1 is non-null returns its value 
+  //    else returns expression2 value.
+
+
+      //Question 5
+      //DATA TYPES
+     // int,double, string, num, boolean
+    //   int num1 = 2;
+    //  int num2 = 3;
+    //  int num3 = num1 + num2;
+    //  print(num3);
+                  //Double
+    // var num2 = 52.5;
+    // var num3 = 63.4;
+    // double add = num2 + num3;
+    // print(add);
+
+            //String
+    // String name1 = "Muhammad ";
+    // String name2 = "Umair";
+    // String name3 = name1+name2;
+    // print(name3);
+
+          //num
+    // int num1 = 4;
+    // double num2 = 66.5;
+    // num abc = num1+num2;
+    // print(abc);
+
+
+    //Question 6
+
+  //      var Table = [7, 14, 21, 28, 35, 42, 49, 56, 63, 70];
+  //    var Numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+  //    var data = Map.fromIterables(Numbers, Table);
+  //    print(data);
+
+  // var js = "arhamahmed3456";
+  // String user = " ";
+  // print("Enter your Password: ");
+  // String? pass = stdin.readLineSync();
+
+  // if (pass == js) {
+  //   print("The Password you entered is correct");
+  // } else if (pass != user) {
+  //   print("Please Enter your Password");
+  // } else {
+  //   print("Incorrect password");
+  // }
+
+          //Question 10
+
+  // var name1 = "Hyder";
+  // var name2 = "abad";   
+  // var replace = name1.replaceAll(name1, "islam"); 
+  // var newvar = replace + name2;
+  // print(newvar);   
+
+          //Question 13
+  //Methods of List
+//1)skip()
+//2)take()
+//3)every()
+//4)any()
+//5)followedBy()
+
+
+
+
+
+}
